@@ -62,6 +62,10 @@ def how_many_steps?
     end
   end
 end
+first_steps
+a_few_more_steps
+how_many_steps?
+break_dance
 
 # def first_steps
 #   # Write a loop that outputs "Right foot back", "Left foot back",
